@@ -1,5 +1,5 @@
 # AutoRecorder<br>
-使用AVFoundation框架对使用USB连接到Mac上的iOS设备录屏
+使用AVFoundation框架对通过USB连接到Mac上的iOS设备录屏
 
 ### 1.编译后的可执行程序拷贝到 /usr/local/bin/
 ### 2.在命令行启动服务 AutoRecord -u xxxxxxxxxxxxxxxxxx
