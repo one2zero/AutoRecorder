@@ -198,7 +198,7 @@
                     NSLog(@"AppendSampleBuffer fail.");
                 }
             }else{
-                NSLog(@"AVAssetWriter not ready for wright,status:%ld error:%@.",(long)status,error);
+                NSLog(@"AVAssetWriter not ready for write,status:%ld error:%@.",(long)status,error);
             }
         }
         frameCount++;
